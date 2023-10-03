@@ -1,0 +1,6 @@
+host: localhost
+adapter: postgresql
+encoding: utf-8
+database: task_manager
+username: postgres
+password: postgres
